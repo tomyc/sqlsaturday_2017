@@ -2,6 +2,7 @@
 
 #### Repozytorium zawiera skrypty oraz prezentację, jakie były wykorzystywane w trakcje sesji:
 - Integracja języka Python z MS SQL Server 2017
+  - Autorzy: **Agnieszka Cieplak** i **Tomasz Cieplak**
 
 #### Opis plików:
 - Plik prezentacji MS PowerPoint

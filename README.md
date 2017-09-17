@@ -8,8 +8,8 @@
 - Plik prezentacji MS PowerPoint
   - SQLSaturday_664-Integracja_jezyka_Python_z_MS SQL_Server_2017.pptx
 - Jupyter Notebook
-  - Przyklad1.Wywolanie_revoscalepy_w_kontekscie_serwera_SQL.ipynb
-  - Przyklad2.Python_and_SQL_Server_ML_Services.ipynb
+  - Przykład 1. Wywołanie funkcji pakietu revoscalepy w kontekscie serwera SQL.ipynb
+  - Przykład 2. Python and_SQL Server ML Services.ipynb
 - Skrypty MS SQL - dla wersji SQL Server 2017 RC2
   - LinearModel_Python_and_SQL_Server_ML_Services.sql - zastosowanie modeli liniowego, który był tworzony w przykładzie 2, bezpośrednio w skrypcie SQL
   - Utworzenie_Bazy_RevoTestDB.sql - skrypt do importu danych dla przykładu 1.
